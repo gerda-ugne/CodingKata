@@ -51,7 +51,7 @@ When levelling up, experience resets to 0.
 Maximum level is 100.
 Track B
 Characters may belong to one or more Factions.
-Newly created Characters belong ● to no Faction.
+Newly created Characters belong to no Faction.
 A Character may Join or Leave one or more Factions.
 Players belonging to the same Faction are considered Allies.
 Allies cannot Deal Damage to one another.
