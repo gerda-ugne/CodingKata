@@ -1,7 +1,7 @@
 # CodingKata
 
 Coding Kata was a proposed exercise at Amazon Spring Insights.
-We had to develop a system as follows:
+I have followed the track A. Armor implementation of Track B is missing.
 
 # Combat Simulator Coding Kata - Student Notes
 ## Introduction
